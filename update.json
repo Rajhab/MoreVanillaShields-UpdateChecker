@@ -3,7 +3,7 @@
 	"promos": {
 		"1.20.4-latest": "1.0.6-1.20.4",
 		"1.20.4-recommended": "1.0.6-1.20.4",
-    "1.20.3-latest": "1.0.6-1.20.3",
+    		"1.20.3-latest": "1.0.6-1.20.3",
 		"1.20.3-recommended": "1.0.6-1.20.3",
 		"1.20.2-latest": "1.0.8-1.20.2",
 		"1.20.2-recommended": "1.0.8-1.20.2",
@@ -17,7 +17,7 @@
 	"1.20.4": {
 		"1.0.6-1.20.4": "forge update & fixed recipes & fixed config file"
 	},
-  "1.20.3": {
+  	"1.20.3": {
 		"1.0.6-1.20.3": "fixed recipes & fixed config file"
 	},
 	"1.20.2": {
