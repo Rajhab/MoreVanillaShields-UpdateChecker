@@ -1,35 +1,37 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/more-vanilla-shields",
-	"promos": {
-		"1.20.4-latest": "1.0.6-1.20.4",
-		"1.20.4-recommended": "1.0.6-1.20.4",
-    		"1.20.3-latest": "1.0.6-1.20.3",
-		"1.20.3-recommended": "1.0.6-1.20.3",
-		"1.20.2-latest": "1.0.8-1.20.2",
-		"1.20.2-recommended": "1.0.8-1.20.2",
-		"1.20.1-latest": "1.0.8-1.20.1",
-		"1.20.1-recommended": "1.0.8-1.20.1",
-		"1.19.4-latest": "1.0.1-1.19.4",
-		"1.19.4-recommended": "1.0.1-1.19.4",
-		"1.19.2-latest": "1.0.1-1.19.2",
-		"1.19.2-recommended": "1.0.1-1.19.2",
-	},
-	"1.20.4": {
-		"1.0.6-1.20.4": "forge update & fixed recipes & fixed config file"
-	},
-  	"1.20.3": {
-		"1.0.6-1.20.3": "fixed recipes & fixed config file"
-	},
-	"1.20.2": {
-		"1.0.8-1.20.2": "fixed recipes & fixed config file"
-	},
-	"1.20.1": {
-		"1.0.8-1.20.1": "fixed recipes & fixed config file"
-	},
-	"1.19.4": {
-		"1.0.1-1.19.4": "fixed creative mode tab & fixed recipes & fixed config file"
-	},
-	"1.19.2": {
-		"1.0.1-1.19.2": "fixed recipes & fixed config file"
-	}
+	
+		"1.20.4": {
+			"1.0.6-1.20.4": "forge update & fixed recipes & fixed config file"
+		},
+	  	"1.20.3": {
+			"1.0.6-1.20.3": "fixed recipes & fixed config file"
+		},
+		"1.20.2": {
+			"1.0.8-1.20.2": "fixed recipes & fixed config file"
+		},
+		"1.20.1": {
+			"1.0.8-1.20.1": "fixed recipes & fixed config file"
+		},
+		"1.19.4": {
+			"1.0.1-1.19.4": "fixed creative mode tab & fixed recipes & fixed config file"
+		},
+		"1.19.2": {
+			"1.0.1-1.19.2": "fixed recipes & fixed config file"
+		},
+
+		"promos": {
+			"1.20.4-latest": "1.0.6-1.20.4",
+			"1.20.4-recommended": "1.0.6-1.20.4",
+	    		"1.20.3-latest": "1.0.6-1.20.3",
+			"1.20.3-recommended": "1.0.6-1.20.3",
+			"1.20.2-latest": "1.0.8-1.20.2",
+			"1.20.2-recommended": "1.0.8-1.20.2",
+			"1.20.1-latest": "1.0.8-1.20.1",
+			"1.20.1-recommended": "1.0.8-1.20.1",
+			"1.19.4-latest": "1.0.1-1.19.4",
+			"1.19.4-recommended": "1.0.1-1.19.4",
+			"1.19.2-latest": "1.0.1-1.19.2",
+			"1.19.2-recommended": "1.0.1-1.19.2",
+		}
 }
