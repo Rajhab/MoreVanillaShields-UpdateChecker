@@ -2,31 +2,31 @@
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/more-vanilla-shields",
 
 		"1.21": {
-			"1.0.0-1.21": "New Game Support Version"
+			"1.0.1-1.21": "Redstone Shield with Particles"
 		},
 		"1.20.6": {
-			"1.0.0-1.20.6": "New Game Support Version"
+			"1.0.1-1.20.6": "Redstone Shield with Particles"
 		},
 		"1.20.4": {
-			"1.0.0-1.20.4": "New Game Support Version"
+			"1.0.1-1.20.4": "Redstone Shield with Particles"
 		},
 	  	"1.20.3": {
-			"1.0.0-1.20.3": "New Game Support Version"
+			"1.0.1-1.20.3": "Redstone Shield with Particles"
 		},
 		"1.20.2": {
-			"1.0.0-1.20.2": "New Game Support Version"
+			"1.0.1-1.20.2": "Redstone Shield with Particles"
 		},
 
 		"promos": {
-			"1.21-latest": "1.0.0-1.21",
-			"1.21-recommended": "1.0.0-1.21",
-			"1.20.6-latest": "1.0.0-1.20.6",
-			"1.20.6-recommended": "1.0.0-1.20.6",
-			"1.20.4-latest": "1.0.0-1.20.4",
-			"1.20.4-recommended": "1.0.0-1.20.4",
-	    		"1.20.3-latest": "1.0.0-1.20.3",
-			"1.20.3-recommended": "1.0.0-1.20.3",
-			"1.20.2-latest": "1.0.0-1.20.2",
-			"1.20.2-recommended": "1.0.0-1.20.2"
+			"1.21-latest": "1.0.1-1.21",
+			"1.21-recommended": "1.0.1-1.21",
+			"1.20.6-latest": "1.0.1-1.20.6",
+			"1.20.6-recommended": "1.0.1-1.20.6",
+			"1.20.4-latest": "1.0.1-1.20.4",
+			"1.20.4-recommended": "1.0.1-1.20.4",
+	    		"1.20.3-latest": "1.0.1-1.20.3",
+			"1.20.3-recommended": "1.0.1-1.20.3",
+			"1.20.2-latest": "1.0.1-1.20.2",
+			"1.20.2-recommended": "1.0.1-1.20.2"
 		}
 }
